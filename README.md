@@ -3,8 +3,11 @@
 **Skills Takeaway**
 
 Data Wrangling
+
 Exploratory Data Analysis (EDA)
+
 Model Building
+
 Model Deployment
 
 **Domain**
