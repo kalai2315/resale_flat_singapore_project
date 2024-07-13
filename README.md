@@ -59,6 +59,7 @@ Thoroughly test the deployed application to ensure it functions correctly and pr
 
 **Results**
 The project will benefit both potential buyers and sellers in the Singapore housing market. Buyers can use the application to estimate resale prices and make informed decisions, while sellers can get an idea of their flat's potential market value. Additionally, the project demonstrates the practical application of machine learning in real estate and web development.
+<img width="542" alt="Sing_flat" src="https://github.com/user-attachments/assets/c6d5b788-09e2-4581-a7e0-fcdead8b0144">
 
-<img width="703" alt="image" src="https://github.com/user-attachments/assets/537fcbcb-fb03-43ea-9623-caf76ba3b8fd">
+
 
