@@ -1,0 +1,10 @@
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
+google-api-python-client
+isodate
+streamlit-option-menu
+scikit-learn
